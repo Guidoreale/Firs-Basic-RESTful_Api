@@ -1,0 +1,22 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "titulo": "El Padrino",
+            "director": "Francis Ford Coppola",
+            "año": 1972
+        },
+        {
+            "id": 3,
+            "titulo": "El Padrino III",
+            "director": "Francis Ford Coppola",
+            "año": 1990
+        },
+        {
+            "id": 4,
+            "titulo": "Mi Pobre Angelito",
+            "director": "Chris Columbus",
+            "año": 1990
+        }
+    ]
+}
